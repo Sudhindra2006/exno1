@@ -141,4 +141,4 @@ z
 <img width="539" height="274" alt="image" src="https://github.com/user-attachments/assets/f2e1b066-61a7-4892-ae00-74803e3b65fc" />
 
 # Result
-Thus the code and the output is verified.
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
